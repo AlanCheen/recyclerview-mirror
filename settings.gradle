@@ -1,0 +1,4 @@
+include ':poolingcontainer'
+include ':recyclerview'
+include ':app'
+rootProject.name = "recyclerview-mirror"
